@@ -1,0 +1,5 @@
+streamlit
+pandas
+openpyxl
+customtkinter  # Apenas se ainda quiseres manter compatibilidade local
+# Adiciona aqui as bibliotecas que o teu ASSET_MASTER_v6.py usa (ex: opencv-python, torch, etc.)
